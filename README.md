@@ -71,4 +71,4 @@ see [https://todoist.com/ja/help/articles/use-google-calendar-with-todoist](http
 * [https://developers.notion.com/reference/intro](https://developers.notion.com/reference/intro)
 
 ##License
-This software is released under the MIT License, see LICENSE.txt.
+This software is released under the MIT License, see [LICENSE](https://github.com/JulyFaraway/GAS-Notion-GCal-Todoist-Sync/blob/main/LICENSE).

@@ -57,6 +57,7 @@ Create, update, and delete calendars will be synced to Notion.
 
 ### Google Calendar <->Todoist
 see [https://todoist.com/ja/help/articles/use-google-calendar-with-todoist](https://todoist.com/ja/help/articles/use-google-calendar-with-todoist)
+
 ## Note
 * Limitations
 	* Tasks completed in Notion cannot be completed in Todoist. (Google Calendar can be deleted)
@@ -65,10 +66,9 @@ see [https://todoist.com/ja/help/articles/use-google-calendar-with-todoist](http
 * Contribution
 	* Feel free to give me any issues or PRs to make this software better!
 
-
-##Reference
+## Reference
 * [https://developers.google.com/calendar/api/v3/reference](https://developers.google.com/calendar/api/v3/reference)
 * [https://developers.notion.com/reference/intro](https://developers.notion.com/reference/intro)
 
-##License
+## License
 This software is released under the MIT License, see [LICENSE](https://github.com/JulyFaraway/GAS-Notion-GCal-Todoist-Sync/blob/main/LICENSE).
